@@ -9,5 +9,7 @@
 - in advanced scene switcher open it up, make a new macro. add a conditon called "(if) (replay buffer) (saved)" than add a action called "run", put the run file to the save_files.bat file in the repo
 ![Example](https://i.imgur.com/GsuIsrE.png "Example")
 - it should move the file whenever you save a replay buffer
+
+- (IMPORTANT) make sure that the place your saving your recordings to in obs is the same place as base_path in processes.json
 ## How to add a game
 - open processes.json, and add a new entire in "processes" (like the others) with the processes name (cap sensetive) and whatever the name for the game is

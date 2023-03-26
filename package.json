@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "bot": "node bot.js"
+    },
+    "dependencies": {
+        "child_process": "^1.0.2",
+        "fs": "^0.0.1-security",
+        "node-notifier": "^10.0.1",
+        "path": "^0.12.7",
+        "ps-list": "^8.1.0",
+        "ps-node": "^0.1.6",
+        "underscore": "^1.13.4"
+    }
+}

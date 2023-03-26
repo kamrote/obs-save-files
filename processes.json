@@ -1,0 +1,21 @@
+{
+    "base_path":"D:/videos/obs/replays",
+    "processes":[
+        {"game":"JUST SURVIVE","process":"H1Z1.EXE"}, 
+        {"game":"VALORANT","process":"VALORANT.exe"}, 
+        {"game":"RUST","process":"RustClient.exe"}, 
+        {"game":"CSGO","process":"csgo.exe"}, 
+        {"game":"PUGB","process":"TslGame.exe"}, 
+        {"game":"BATTLEFIELD 2042","process":"BF2042.exe"}, 
+        {"game":"New World","process":"NewWorld.exe"}, 
+        {"game":"OVERWATCH 2","process":"Overwatch Launcher.exe"}, 
+        {"game":"OVERWATCH 2","process":"Overwatch.exe"}, 
+        {"game":"CS 2","process":"csgos2.exe"}, 
+        {"game":"CS 2","process":"cs2.exe"}, 
+        {"game":"GTA5","process":"GTA5.exe"}, 
+        {"game":"MODERN WARFARE","process":"ModernWarfare.exe"}, 
+        {"game":"MODERN WARFARE 2","process":"cod.exe"}, 
+        {"game":"BLACK OPS COLD WAR","process":"BlackOpsColdWar.exe"}, 
+        {"game":"HALO","process":"HaloInfinite.exe"}
+    ]
+}

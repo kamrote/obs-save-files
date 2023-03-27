@@ -12,4 +12,4 @@
 
 - (IMPORTANT) make sure that the place your saving your recordings to in obs is the same place as base_path in processes.json
 ## How to add a game
-- open processes.json, and add a new entire in "processes" (like the others) with the processes name (cap sensetive) and whatever the name for the game is
+- open processes.json, and add a new entrie in "processes" (like the others) with the processes name (cap sensetive) and whatever the name for the game is
